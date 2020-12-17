@@ -6,7 +6,7 @@ Personal list of usefull resources for your next vue project;
 
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
-
+- test
 
 
 ## Video
