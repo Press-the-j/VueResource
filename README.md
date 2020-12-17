@@ -22,7 +22,7 @@ Personal list of usefull resources for your next vue project;
   -[Net ninja course](https://www.youtube.com/watch?v=BGAu__J4xoc)
   
 - ### Vue-router
-  -[Vue-router for dummies](https://www.youtube.com/watch?v=-uCUCmrNgeo&t=1036s)
+  - [Vue-router for dummies](https://www.youtube.com/watch?v=-uCUCmrNgeo&t=1036s)
   
 - ### Tips  
   - [Dynamic Components](https://www.youtube.com/watch?v=csTfQU_9HmI&t=303s)
