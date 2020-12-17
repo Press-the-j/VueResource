@@ -5,7 +5,11 @@ Personal list of usefull resources for your next vue project;
 ## Repo
 
 
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)
+  - [Awesome Vue](https://github.com/vuejs/awesome-vue)
+
+## Digest
+
+  - [LogRocket on $refs](https://blog.logrocket.com/how-to-use-refs-to-access-your-application-dom-in-vue-js/)
 
 
 
@@ -19,10 +23,17 @@ Personal list of usefull resources for your next vue project;
 - ### Vuex
   - [Vuex crash course](https://www.youtube.com/watch?v=5lVQgZzLMHc&t=1896s)
   - [Vuex tips](https://www.youtube.com/watch?v=aiZvqNkKPyY&t=340s)
-  -[Net ninja course](https://www.youtube.com/watch?v=BGAu__J4xoc)
+  - [Net ninja course](https://www.youtube.com/watch?v=BGAu__J4xoc)
   
 - ### Vue-router
   - [Vue-router for dummies](https://www.youtube.com/watch?v=-uCUCmrNgeo&t=1036s)
   
 - ### Tips  
   - [Dynamic Components](https://www.youtube.com/watch?v=csTfQU_9HmI&t=303s)
+  
+## StackOverflow :hearth:
+  - [Communication between sibling components](https://stackoverflow.com/questions/38616167/communication-between-sibling-components-in-vue-js-2-0/47004242#47004242)
+
+## NuxtJS
+
+  - [Snippet with example](https://github.com/overscore-media/nuxt-toolkit)
