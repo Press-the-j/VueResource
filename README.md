@@ -19,6 +19,7 @@ Personal list of usefull resources for your next vue project;
   - [FreeCodeCamp CrashCourse](https://www.youtube.com/watch?v=4deVCNJq3qc&t=6451s)
   - [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
   - [PluralSight](https://www.pluralsight.com/), in particular [Single PAge application with Vue](https://app.pluralsight.com/library/courses/vue-js-single-page-applications/table-of-contents) and [Jhon Papa course](https://app.pluralsight.com/library/courses/vue-getting-started/table-of-contents)
+  - ["Vue - The Ultimate Guide" on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide)
   
 - ### Vuex
   - [Vuex crash course](https://www.youtube.com/watch?v=5lVQgZzLMHc&t=1896s)
